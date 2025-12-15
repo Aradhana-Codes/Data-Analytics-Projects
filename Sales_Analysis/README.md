@@ -1,1 +1,1 @@
-Bijong Trading Comapny Sales Analysis
+Bijong Trading Company Sales Analysis
