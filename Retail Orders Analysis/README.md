@@ -11,7 +11,7 @@ Time Period: 2022–2023
 Features:16 columns
 
 Tools & Technologies: 
-1 Python (Pandas, NumPy): Kaggle API data extraction, Data loading and preprocessing
+1 Python: Kaggle API data extraction, Data loading and preprocessing
 2 SQL (MySQL): Aggregations, KPI calculations
 3 Power BI: Interactive dashboards and visual analytics
 4 Jupyter Notebook: Analysis documentation
